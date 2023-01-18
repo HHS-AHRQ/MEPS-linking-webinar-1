@@ -11,7 +11,7 @@ Example SAS code is also provided in this respository for reference.
 
 ## MEPS Workshops
 
-MEPS Data Users Workshops are held twice a year (in spring and fall). Additional webinars are provided throughout the year on an ad hoc basis. Presentation slides and programming exercises from the most recent Data Users Workshops are available in the [MEPS-workshop] (https://github.com/HHS-AHRQ/MEPS-workshop) repository.
+MEPS Data Users Workshops are held twice a year (in spring and fall). Additional webinars are provided throughout the year on an ad hoc basis. Presentation slides and programming exercises from the most recent Data Users Workshops are available in the [MEPS-workshop](https://github.com/HHS-AHRQ/MEPS-workshop) repository.
 
 For more information about upcoming MEPS events, please visit the [MEPS website](https://meps.ahrq.gov/about_meps/workshops_events.jsp) or contact Anita Soni at [WorkshopInfo@ahrq.hhs.gov](mailto:WorkshopInfo@ahrq.hhs.gov).  
 
